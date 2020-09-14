@@ -1,0 +1,82 @@
+<html>
+	<head> 
+        <title>Omar Ghani</title>
+	</head>
+	<body>
+        <h3>Bio</h3>
+        <p> Omar Ghani, 214110808, Software Engineering, Coding </p>
+        <img src=https://thumbs.dreamstime.com/b/happy-businessman-okay-sign-white-background-showing-31657077.jpg alt="me" style="width:20%;height:20%"> 
+        <h3>Education</h3>
+            <table style="width:100%">
+                  <tr>
+                    <th>Year</th>
+                    <th>Degree Title</th>
+                    <th>School</th>
+                    <th>Address</th>
+                    <th>Grade</th>
+                    <th>Specialization</th>
+                  </tr>
+                  <tr>
+                    <td>2012</td>
+                    <td>Industrial Engineering</td>
+                    <td>Alfaisal University</td>
+                    <td>idk</td>
+                    <td>B</td>
+                    <td>Special specialization</td>
+                  </tr>
+                  <tr>
+                    <td>2014</td>
+                    <td>Software Engineering</td>
+                    <td>Prince Sultan University</td>
+                    <td>King Abdullah Road</td>
+                    <td>A+</td>
+                    <td>most special</td>
+                  </tr>
+            </table>
+        </br>
+    <h3>Employment</h3>
+            <table style="width:100%">
+                  <tr>
+                    <th>From</th>
+                    <th>To</th>
+                    <th>Job title</th>
+                    <th>Company name</th>
+                    <th>Responsibilities</th>
+                  </tr>
+                  <tr>
+                    <td>2019</td>
+                    <td>2020</td>
+                    <td>Graphic Artist</td>
+                    <td>IndustrialIndustries</td>
+                    <td>Irresponsibility</td>
+                  </tr>
+            </table>
+        </br>
+<h3>Projects completed</h3>
+            <table style="width:100%">
+                  <tr>
+                    <th>Project title</th>
+                    <th>Project description</th>
+                    <th>Link</th>
+                  </tr>
+                  <tr>
+                    <td>Divinity</td>
+                    <td>Physical manifestation of a divine being</td>
+                    <td><a href="https://www.instagram.com/p/CE9eD8lAkNw/?utm_source=ig_web_copy_link">Link</a></td>
+                  </tr>
+            </table>
+        </br>
+        <h3>Certifications</h3>
+        <ul>
+            <li>Brotherhood of Hoodie Brothers</li>
+            <li>Uncertification</li>
+            <li>Milk</li>
+        </ul>
+
+        <p>Instagram profile: <a href="https://www.instagram.com/omo.art.94/"><img src=https://image.flaticon.com/icons/png/512/87/87390.png style="width:3.5%;height:5%"></a></p>
+<footer>
+  <p>Author: Omar Ghani</p>
+  <p><a href="https://www.instagram.com/omo.art.94/">@omo.art.94</a></p>
+</footer>
+	</body>
+</html>
